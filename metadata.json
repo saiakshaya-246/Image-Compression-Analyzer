@@ -1,0 +1,6 @@
+{
+  "name": "Image Compression Comparator",
+  "description": "An interactive tool to upload, compress, and compare images side-by-side with real-time size metrics, PSNR quality loss calculation, and zoom inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
